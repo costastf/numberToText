@@ -4,7 +4,6 @@ numberToText
 A class for translating numbers to their equivalent greek text. The instantiation of the class can get an argument of "euro" set to true if one wants the text to be expressed as euro amount.
 
 The usage is very simple 
-
 ```
     number = numToText()
     amount = number.getText('5.987,23')
